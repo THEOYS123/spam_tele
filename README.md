@@ -1,6 +1,3 @@
-
- Berikut adalah contoh file README.md yang lebih keren dengan tambahan emoji:
-
 # 🚀 Spam Tele - Web Spam Bot Telegram
 
 Selamat datang di **Spam Tele**!  
@@ -63,23 +60,20 @@ Sebuah tool **web-based** yang dirancang dengan **Python Flask** untuk mengirim 
 ### Cara Instalasi
 
 1. **Clone Repository**
-   ```bash
-   git clone https://github.com/THEOYS123/spam_tele.git
-   cd spam_tele
-
-2. Instal Dependensi
-
+```
+git clone https://github.com/THEOYS123/spam_tele.git
+cd spam_tele
 pip install Flask requests
-
-(Disarankan untuk membuat file requirements.txt untuk kemudahan instalasi)
-
-
-3. Jalankan Aplikasi
-
+2. Jalankan Aplikasi
+```
 python spam_tele.py
+```
+Aplikasi akan secara otomatis akan berjalan pada http://localhost:2025.
 
-Aplikasi akan berjalan pada http://localhost:2025.
-
+3.untuk memakai port secara custom
+```
+python spam_tele.py (port) 
+```
 
 
 Cara Penggunaan
@@ -89,6 +83,8 @@ Akses http://localhost:2025.
 
 
 2. Isi Form Input
+
+```
 Masukkan data:
 
 Telegram Bot Token
@@ -100,7 +96,7 @@ Pesan
 Jumlah Spam
 
 Threads
-
+```
 
 
 3. Mulai Pengiriman

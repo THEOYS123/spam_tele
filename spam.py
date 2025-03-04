@@ -26,7 +26,7 @@ def decrypt_code(enc, password):
         decrypted = zlib.decompress(compressed).decode()
         return decrypted
     except Exception:
-        print("Decryption failed. Wrong password or corrupted file.")
+        print("Hayoo lohh, lagi ngapain lu di sini hah???.")
         sys.exit(1)
 
 def get_decryption_password():

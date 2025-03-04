@@ -1,6 +1,6 @@
 # 🚀 Spam Tele - Web Spam Bot Telegram
 
-Selamat datang di **Spam Tele**!  By `RebXploit|🗿👍
+Selamat datang di **Spam Tele**  By `RebXploit🗿👍|
 Sebuah tool **web-based** yang dirancang dengan **Python Flask** untuk mengirim pesan spam melalui Telegram Bot API. Dibangun dengan antarmuka modern yang diperkaya dengan Bootstrap, Font Awesome, Animate.css, AOS, dan Particles.js, aplikasi ini siap memberikan pengalaman yang dinamis dan interaktif. 🎉
 
 ---

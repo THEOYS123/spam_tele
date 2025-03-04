@@ -64,13 +64,13 @@ Sebuah tool **web-based** yang dirancang dengan **Python Flask** untuk mengirim 
 git clone https://github.com/THEOYS123/spam_tele.git
 cd spam_tele
 pip install Flask requests
-python spam_tele.py
+python spam.py
 ```
 Aplikasi akan secara otomatis akan berjalan pada http://localhost:2025.
 
 2.untuk memakai port secara custom
 ```
-python spam_tele.py (port) 
+python spam.py (port) 
 ```
 
 

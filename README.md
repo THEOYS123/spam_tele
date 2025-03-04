@@ -64,13 +64,11 @@ Sebuah tool **web-based** yang dirancang dengan **Python Flask** untuk mengirim 
 git clone https://github.com/THEOYS123/spam_tele.git
 cd spam_tele
 pip install Flask requests
-2. Jalankan Aplikasi
-```
 python spam_tele.py
 ```
 Aplikasi akan secara otomatis akan berjalan pada http://localhost:2025.
 
-3.untuk memakai port secara custom
+2.untuk memakai port secara custom
 ```
 python spam_tele.py (port) 
 ```
@@ -103,10 +101,25 @@ Threads
 Klik tombol Start Spam dan nikmati proses pengiriman pesan secara otomatis. Lihat halaman status untuk mengetahui hasil pengiriman. 🚀
 
 
-
-
 ---
 
+# 📸Scrinshoot📸
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+  <div class="image-container">
+    <img src="https://e.top4top.io/p_334981czn1.jpg" alt="Displayed Image">
+  </div>
+</body>
+</html>
+
+---
+ 
 ⚠️ Disclaimer
 
 PERINGATAN:
